@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Clone of the Netflix website as a light HTML CSS and JS - [Take a look]()
+Clone of the Netflix website as a light HTML CSS and JS - [Take a look](https://netflixclone05.vercel.app/)
 
 
 ## What it is
